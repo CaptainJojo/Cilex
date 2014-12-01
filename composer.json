@@ -1,5 +1,5 @@
 {
-    "name":        "cilex/cilex",
+    "name":        "captainjojo/cilex",
     "description": "The PHP micro-framework for Command line tools based on the Symfony2 Components",
     "keywords":    ["microframework","cli"],
     "homepage":    "http://cilex.github.com",
